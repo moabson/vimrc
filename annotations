@@ -1,0 +1,7 @@
+# Comandos
+:%s/ /CTRL + V + ENTER/g : substitui todos os espaços por uma nova linha
+
+# Links
+https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9
+
+valgrind --leak-check=full /yourProgram
